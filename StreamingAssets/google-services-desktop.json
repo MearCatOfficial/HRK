@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "377848514172",
+    "project_id": "hororok-aa0a0",
+    "storage_bucket": "hororok-aa0a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377848514172:android:d07074d0afa889fb652bf9",
+        "android_client_info": {
+          "package_name": "com.MearCat.Hororok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377848514172-u1sjvqpiufqg3t7r45br33pegpm5qvmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeMeWLWhh_m_vp-bh2f2VEQW8SPB_9NVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377848514172-u1sjvqpiufqg3t7r45br33pegpm5qvmu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "377848514172-c0aaipep68ik3t6rnldtdmvi8v9glpho.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.MearCat.Hororok"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7431264985476177~8977230910"
+    }
+  ],
+  "configuration_version": "1"
+}
